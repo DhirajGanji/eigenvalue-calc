@@ -14,4 +14,4 @@ User must then enter the number of electrons in the sites, and then provide a ch
 
 Future updates will include support for calculations involving the 'µ' chemical potential constant.
 
-The JAMA library, which is public domain software built by the National Institute of Standards and Technology is used to calculate the eigenvalues.
+The JAMA library, which is public domain software built by the National Institute of Standards and Technology, is used to calculate the eigenvalues.
