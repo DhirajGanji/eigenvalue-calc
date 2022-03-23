@@ -13,3 +13,5 @@ User must enter an 'n' value, which is the number of electron sites in the desir
 User must then enter the number of electrons in the sites, and then provide a choice for the 't' kinetic energy constant and the 'U' potential energy constant.
 
 Future updates will include support for calculations involving the 'µ' chemical potential constant.
+
+The JAMA library, which is public domain software built by the National Institute of Standards and Technology is used to calculate the eigenvalues.
